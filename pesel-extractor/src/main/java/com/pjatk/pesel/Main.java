@@ -70,6 +70,15 @@ public class Main {
 
         print("test@wp.pl".matches("^[\\w-\\.]+@([\\w-]+\\.)+[\\w-]{2,4}$"));
 
+        String sequenceOfNumbers = "12345";
+
+        for (char c :
+                sequenceOfNumbers.toCharArray()) {
+            print(Integer.parseInt(c + ""));
+        }
+
+        int number = Integer.parseInt(sequenceOfNumbers.substring(0,1));
+        print(number);
         print("-------------------------------------------------------------");
     }
 
