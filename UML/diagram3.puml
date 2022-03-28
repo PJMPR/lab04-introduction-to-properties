@@ -2,7 +2,7 @@
 
 
 class Person {
-    - peselNUmber : String
+    - peselNumber : String
     - name : String
     - surname : String
     - gender : String
