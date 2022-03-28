@@ -4,14 +4,14 @@
 class Person {
     - peselNUmber : String
     - name : String
-    - lastname : String
+    - surname : String
     - gender : String
     - dateOfBirth : LocalDate
     ----
     + getName():String
     + setName(name: String):void
-    + getLastname():String
-    + setLastname(lastName: String):void
+    + getSurname():String
+    + setSurname(lastName: String):void
     + getPeselNumber():String
     + getGender():String
     + getDateOfBirth():LoocalDate

@@ -18,9 +18,9 @@ public class Main {
         //Person person = new Person(pesel);
 
         //person.setName("Jan");
-        //person.setLastname("Kowalski");
+        //person.setSurname("Kowalski");
         //System.out.println("imie: " + person.getName());
-        //System.out.println("nazwisko: " + person.getLastname());
+        //System.out.println("nazwisko: " + person.getSurname());
         //System.out.println("nr pesel: " + person.getPeselNumber());
 
         //System.out.println("płeć: " +  person.getGender());

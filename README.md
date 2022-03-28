@@ -22,6 +22,6 @@ Algorytm na wyliczenie sumy kontrolnej dla numeru pesel znajdziesz [tutaj](https
         + płeć odczytana z numeru PESEL (getter) (0.5 pkt)
         + data urodzenia odczytana z numeru PESEL (getter) (0.5 pkt)
 
-![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/PJMPR/lab04-introduction-to-properties/main/UML/diagram1.puml)
+![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/PJMPR/lab04-introduction-to-properties/main/UML/diagram2.puml)
 
 
