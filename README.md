@@ -4,8 +4,10 @@
 ```
 public class PeselValidator{
     public static boolean isValid(String pesel){
+        
         /* Algorytm sprawdzający czy nr pesel jest prawidłowym numerem PESEL 
-        (poprzez wyrażenie regularne oraz sprawdzenie sumy kontrolnej) */
+        (wyrażenie regularne oraz sprawdzenie sumy kontrolnej) */
+        
         return false;
     }
 }
@@ -19,6 +21,6 @@ public class PeselValidator{
         + płeć odczytana z numeru PESEL (getter) (0.5 pkt)
         + data urodzenia odczytana z numeru PESEL (getter) (0.5 pkt)
 
-
+![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/PJMPR/lab04-introduction-to-properties/main/UML/diagram.puml)
 
 
