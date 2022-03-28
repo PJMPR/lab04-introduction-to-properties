@@ -1,6 +1,6 @@
 # Zadanie
 
-1. (1 pkt) Należy utworzyć klasę PeselValidator z jedną metodą statyczną w pakiecie ```com.pjatk.pesel.model```
+1. (1 pkt) Należy utworzyć klasę PeselValidator z jedną metodą statyczną w pakiecie ```com.pjatk.pesel.model``` (pakiet też należy utworzyć)
 ```
 public class PeselValidator{
     public static boolean isValid(String pesel){
