@@ -31,7 +31,7 @@ public class Main {
         //System.out.println("Dzień: " +person.getDateOfBirth().getDayOfMonth());
 
         // powinien wypisac którąś z wartości: MONDAY, TUESDAY, WEDNSEDAY...
-        //System.out.println("Dzien tygodnia: " +person.getDateOfBirth().getMonth().toString());
+        //System.out.println("Dzien tygodnia: " +person.getDateOfBirth().getDayOfWeek().toString());
 
         funWithDates();
         funWithString();
