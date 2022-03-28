@@ -21,6 +21,6 @@ public class PeselValidator{
         + płeć odczytana z numeru PESEL (getter) (0.5 pkt)
         + data urodzenia odczytana z numeru PESEL (getter) (0.5 pkt)
 
-![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/PJMPR/lab04-introduction-to-properties/main/UML/diagram.puml)
+![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/PJMPR/lab04-introduction-to-properties/main/UML/diagram1.puml)
 
 
