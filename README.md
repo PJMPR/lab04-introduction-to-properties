@@ -1,6 +1,6 @@
 # Zadanie
 
-1. Należy utworzyć klasę PeselValidator z jedną metodą statyczną w pakiecie ```com.pjatk.pesel.model```
+1. (1 pkt) Należy utworzyć klasę PeselValidator z jedną metodą statyczną w pakiecie ```com.pjatk.pesel.model```
 ```
 public class PeselValidator{
     public static boolean isValid(String pesel){
@@ -14,10 +14,10 @@ public class PeselValidator{
 2. Należy utworzyć klasę Person w pakiecie ```com.pjatk.pesel.model```
     * konstruktor przyjmujący numer PESEL
     * Właściowści:
-        + imię i nazwisko (gettery i settery)
-        + nr pesel (getter)
-        + płeć odczytana z numeru PESEL (getter)
-        + data urodzenia odczytana z numeru PESEL (getter)
+        + imię i nazwisko (gettery i settery) (0.5 pkt)
+        + nr pesel (getter) (0.5 pkt)
+        + płeć odczytana z numeru PESEL (getter) (0.5 pkt)
+        + data urodzenia odczytana z numeru PESEL (getter) (0.5 pkt)
 
 
 

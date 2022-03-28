@@ -10,7 +10,7 @@ class Person {
     ----
     + getName():String
     + setName(name: String):void
-    + getLastname:String
+    + getLastname():String
     + setLastname(lastName: String):void
     + getPeselNumber():String
     + getGender():String
