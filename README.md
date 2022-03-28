@@ -12,6 +12,7 @@ public class PeselValidator{
     }
 }
 ```
+Algorytm na wyliczenie sumy kontrolnej dla numeru pesel znajdziesz [tutaj](https://obywatel.gov.pl/pl/dokumenty-i-dane-osobowe/czym-jest-numer-pesel)
 
 2. Należy utworzyć klasę Person w pakiecie ```com.pjatk.pesel.model```
     * konstruktor przyjmujący numer PESEL
