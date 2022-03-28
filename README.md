@@ -6,7 +6,7 @@ public class PeselValidator{
     public static boolean isValid(String pesel){
         
         /* Algorytm sprawdzający czy nr pesel jest prawidłowym numerem PESEL 
-        (wyrażenie regularne oraz sprawdzenie sumy kontrolnej) */
+        (sprawdzić poprzez wyrażenie regularne oraz sumę kontrolną) */
         
         return false;
     }
